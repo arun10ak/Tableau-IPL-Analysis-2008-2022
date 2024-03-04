@@ -42,3 +42,5 @@ Over the years, IPL has become one of the most watched and most attended live sp
 ### Team Statistics
 - Season-wise team performance (wins vs losses)
 - Win %age ( home vs away)
+
+## Interactive Dashboard : [Link](https://www.novypro.com/project/ipl-analysis-2008---2022)
