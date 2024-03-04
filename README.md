@@ -9,7 +9,7 @@ Over the years, IPL has become one of the most watched and most attended live sp
 
 ## Datasets Used:
 
-**matches.csv** - It contains match-level information for each, and every match held in IPL from 2008 to 2017.
+**matches.csv** - It contains match-level information for every match held in IPL from 2008 to 2017.
 
     Each row in matches.csv data set contains:
     
@@ -20,19 +20,25 @@ Over the years, IPL has become one of the most watched and most attended live sp
 
     Each row in deliveries.csv data set contains
 
-        -  Match related information (batting team vs bowling team)
+        -  Match-related information (batting team vs bowling team)
         - Player information (Bowler, Batsman, Non-striker)
         - Delivery information (Runs scored, Wickets, Extras, etc.)
 
-Analysis
-Match Statistics
-Toss outcome vs Match outcome (for each Ground/Venue)
-Biggest wins (by runs and by wicket)
-Highest totals (across all the seasons)
-Player Statistics
-Orange Cap contenders (The batsmen who have scored the maximum number of runs in a particular season)
-Purple Cap contenders (The bowlers who have taken the maximum number of wickets in a particular season)
-Batsmen who have hit the most number of fours and sixes (per season and overall)
-Team Statistics
-Season-wise team performance (wins vs losses)
-Win %age ( home vs away)
+
+## Insight Analysis:
+---
+
+### Match Statistics
+
+- Toss outcome vs Match outcome (for each Ground/Venue)
+- Biggest wins (by runs and by wicket)
+- Highest totals (across all the seasons)
+
+### Player Statistics
+- Orange Cap contenders (The batsmen who have scored the maximum number of runs in a particular season)
+- Purple Cap contenders (The bowlers who have taken the maximum number of wickets in a particular season)
+- Batsmen who have hit the most number of fours and sixes (per season and overall)
+
+### Team Statistics
+- Season-wise team performance (wins vs losses)
+- Win %age ( home vs away)
